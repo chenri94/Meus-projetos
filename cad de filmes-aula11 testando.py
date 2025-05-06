@@ -10,6 +10,7 @@ bd_filmes = [
     ['Interestelar', 2015, 'Ficção'],
     ['Titanic', 1997, 'Drama'],
     ['Star Wars: Episódio 6', 2022, 'Ficção']
+    ['Conclave', 2024, 'Drama']
 ]
 #criar função de listar filmes
 #for para percorrer apenas as listas e não item por item
